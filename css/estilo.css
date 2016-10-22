@@ -1,1 +1,24 @@
-estilo.css
+body{
+	border: 0px;
+	margin: 0px;
+		font-family: Helvetica;
+	font-size: 18px;
+	letter-spacing: 3px;
+}
+
+.header {
+	background: white;
+	width: 100%
+	height: auto;
+	text-align: center;
+	border-bottom: solid 1px black;
+
+	color: #000;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.txt {
+	color: #534E68;
+	padding-top: 30px;
+}
