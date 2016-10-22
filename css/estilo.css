@@ -1,7 +1,7 @@
 body{
 	border: 0px;
 	margin: 0px;
-		font-family: Helvetica;
+		font-family: 'Oswald', sans-serif;
 	font-size: 18px;
 	letter-spacing: 3px;
 }
@@ -11,7 +11,7 @@ body{
 	width: 100%
 	height: auto;
 	text-align: center;
-	border-bottom: solid 1px black;
+	border-bottom: solid 1px #D7DBDD;
 
 	color: #000;
 	padding-top: 40px;
@@ -21,4 +21,12 @@ body{
 .txt {
 	color: #534E68;
 	padding-top: 30px;
+
+}
+
+.textobajo {
+	color: #8E44AD;
+	font-size: 18px;
+	font-weight: bold;
+	padding-top: 20px;
 }
